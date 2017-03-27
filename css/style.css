@@ -77,12 +77,10 @@ header nav ul li a{
 	height:500px;
 	width:1200px;
 	margin:auto;
+	display: flex;
+	justify-content:space-around;
 }
 .locations-container{
 	display: flex;
 	justify-content: space-around;
-}
-.location{
-	background-color:black;
-	color:white;
 }
