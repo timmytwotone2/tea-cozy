@@ -84,3 +84,7 @@ header nav ul li a{
 	display: flex;
 	justify-content: space-around;
 }
+.location{
+	background-color:black;
+	color:white;
+}
